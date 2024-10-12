@@ -68,7 +68,5 @@ public class Menu {
                     break;
             }
         } while (option != 7);
-
-
     }
 }
